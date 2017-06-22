@@ -1,10 +1,7 @@
 # DatePicker
-![](app/src/main/res/mipmap-xhdpi/demo.gif "")   
-
-###轻量级的日期选择器，使用WheelView  
-
-####自定义属性介绍  
-
+![](app/src/main/res/mipmap-xhdpi/demo.gif "")  
+### 轻量级的日期选择器，使用WheelView  
+#### 自定义属性介绍  
 属性|介绍  
 ---|---  
 lineColor|分割线颜色
@@ -17,9 +14,7 @@ normalTextSize|未选中文本字体大小
 selectedTextColor|选中文本颜色
 selectedTextSize|选中文本字体大小
 unitHight|每个item单元的高度  
-
-####API介绍
-
+#### API介绍  
 ```JAVA
 //设置WheelView的数据
 setData(ArrayList data)

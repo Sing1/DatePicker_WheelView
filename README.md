@@ -3,8 +3,8 @@
 
 轻量级的日期选择器，使用WheelView
 ####自定义属性介绍
-属性|介绍
--|-
+属性|介绍  
+-|-  
 lineColor|分割线颜色
 lineHeight|分割线高度
 itemNumber|此wheelView显示item的个数
